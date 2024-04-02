@@ -1,0 +1,56 @@
+body{
+    background-color: rgba(255, 205, 244, 0.432);
+}
+
+.titulo{
+    margin: 0px;
+    padding: 20px;
+    border: 1px solid rgb(0, 0, 0);
+    width: 1830px ;
+    text-align: center;
+    font-family: "Rubik Scribble", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 300%;
+    color: rgb(92, 4, 104);
+}
+
+.home{
+    margin: 0px;
+    padding: 20px;
+    border: 1px solid black;
+    width: 1830px ;
+}
+
+.img_1{
+    margin: 50px;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.section_1{
+    margin: 50px;
+    height: 300px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.img_2{
+    margin: 50px;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.rodape{
+    background-color: black;
+    margin: 90px;
+    padding: 10px;
+    border: 1px solid black;
+    width: 1700px ;
+    text-align: center;
+    color: aliceblue;
+}

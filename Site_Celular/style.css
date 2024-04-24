@@ -1,0 +1,60 @@
+main{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.principal{
+    display: flex;
+}
+
+.texto{
+    display: grid;
+    width: 25%;
+    height: 20%;
+    margin: 250px;
+    margin-top: 100px;
+    font-weight: 10000;
+}
+
+h1{
+    color: #091133;
+    font-family: "Red Rose";
+    margin: 2px;
+    width: 520px;
+    height: 96px;
+    font-size: 36px;
+}
+
+p{
+    color: #6F7CB2;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+imagem{
+    width: 492px;
+    height: 1031px;
+}
+
+.botoes{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+
+}
+
+.botaopreto{
+    background-color: #091133;
+    color: rgb(255, 255, 255);
+    width: 190px;
+    height: 36px;
+}
+
+.botaobranco{
+    background-color: white;
+    color: black;
+    width: 190px;
+    height: 36px;
+} 
